@@ -2,7 +2,7 @@
 A simple project that works like an online shopping website. Customers can search, buy things and check order details. Agents can set up deliveries ,update deliveries and add products to the stock.
 
 
-                                         Detailed Overview 
+                                                Detailed Overview 
 Start off with creating the tables and loading test data into the database with initialization.py. This file calls 2 functions imported from definetables.py and definedata.py
 Define function in definetables.py creates the tables and puts it in the database
 Define function in definedata.py  loads our testdata into the database
