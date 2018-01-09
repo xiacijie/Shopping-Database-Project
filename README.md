@@ -1,6 +1,8 @@
 # Small-Shopping-Database-Project
 
 cooperated with: Monica Bui, Minghan Li
+
+
 A simple project that works like an online shopping website. Customers can search, buy things and check order details. Agents can set up deliveries ,update deliveries and add products to the stock.
 
 
