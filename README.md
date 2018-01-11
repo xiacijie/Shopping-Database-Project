@@ -1,7 +1,11 @@
 # Small-Shopping-Database-Project
 
-Cooperated with: Monica Bui, Minghan Li
+## Cooperated with: Monica Bui, Minghan Li
 
+## Image Overviews
+![screenshot from 2018-01-10 16-54-13](https://user-images.githubusercontent.com/27936587/34802032-c4b9881e-f628-11e7-9be8-5326678141dc.png)
+![screenshot from 2018-01-10 16-54-44](https://user-images.githubusercontent.com/27936587/34802034-c5fb1256-f628-11e7-930e-ee6ef70f0282.png)
+![screenshot from 2018-01-10 16-55-55](https://user-images.githubusercontent.com/27936587/34802036-c8e026d2-f628-11e7-9390-e93aa9a215c0.png)
 
 A simple project that works like an online shopping website. Customers can search, buy things and check order details. Agents can set up deliveries ,update deliveries and add products to the stock.
 
